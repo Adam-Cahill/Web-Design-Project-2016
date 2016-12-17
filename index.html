@@ -45,6 +45,25 @@
 			<script src="js/bootstrap.js"></script>
 		</div>
 	</div>
-	
+		<button onclick=popup1();>
+			Click me for popup1!
+		</button>
+		<script>
+		var age=parseInt(prompt("What is your age"));
+		var name=prompt("What is your name?");
+		if(age>=18 && age<35){
+			var id=confirm("Do you have ID")
+			if(id==true){
+			alert("Welcome "+name+"!");
+			}
+		else{
+			alert("Not tonight bud");
+			}
+		}
+		
+		function popup1(){
+			alert("Welcome "+name+", you can enter as you are "+age+"!");
+		}
+		</script>
 	</body>
 </html>

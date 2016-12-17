@@ -1,0 +1,126 @@
+body{
+	background-image: url("images/footer_lodyas.png");
+}
+
+.jumbotron{
+	background:white;
+}
+
+#deadmau5{
+	float:center;
+}
+
+#wrapper{
+	max-width:850px;
+	height:1560px;
+	background:white;
+	margin:0 auto;
+}
+
+#deadmau5{
+	height:15%;
+	width:32.5%;
+	float:left;
+}
+
+#Tiesto{
+	height:15%;
+	width:32.5%;
+	float:left;
+}
+
+#David{
+	height:15%;
+	width:32.5%;
+	float:left;
+}
+
+#Tomorrowland{
+	display: block;
+    margin: auto;
+    width:36%;
+}
+
+#Mount{
+	height:15%;
+	width:32.5%;
+	float:left;
+}
+
+#Lake{
+	height:15%;
+	width:32.5%;
+	float:left;
+}
+
+#wood{
+	height:15%;
+	width:32.5%;
+	float:left;
+}
+
+#Ape{
+	height:45%;
+	width:32.5%;
+	float:left;
+}
+
+#Spyro{
+	height:15%;
+	width:34%;
+	float:left;
+}
+
+#Crash{
+	height:15%;
+	width:32.5%;
+	float:left;
+}
+
+#Arse{
+	height:15%;
+	width:32.5%;
+	float:left;
+}
+
+#IRFU{
+	height:15%;
+	width:32.5%;
+	float:left;
+}
+
+#FAI{
+	height:15%;
+	width:32.5%;
+	float:left;
+}
+
+#Poke{
+	height:15%;
+	width:32.5%;
+	float:left;
+}
+
+#Battle{
+	height:15%;
+	width:32.5%;
+	float:right;
+}
+
+#Gear{
+	height:15%;
+	width:32.5%;
+	float:left;
+}
+
+#Horizon{
+	height:15%;
+	width:32.5%;
+	float:left;
+}
+
+#Mass{
+	height:15%;
+	width:32.5%;
+	float:right;
+}
